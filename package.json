@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-express-mvc-example",
+  "version": "1.0.0",
+  "description": "An example for implemanting mvc design with nodejs and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "author": "Yahely Ushpiz",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-winston": "^4.2.0",
+    "winston": "^3.13.0"
+  }
+}

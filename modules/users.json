@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "username": "jdoe",
+    "email": "jdoe@example.com",
+    "fullName": "John Doe",
+    "age": 28,
+    "address": {
+      "street": "123 Maple St",
+      "city": "Springfield",
+      "state": "IL",
+      "zipCode": "62701"
+    },
+    "phoneNumber": "555-123-4567",
+    "registeredAt": "2022-01-15T08:45:00Z",
+    "isActive": true
+  },
+  {
+    "id": 2,
+    "username": "asmith",
+    "email": "asmith@example.com",
+    "fullName": "Alice Smith",
+    "age": 34,
+    "address": {
+      "street": "456 Oak Ave",
+      "city": "Metropolis",
+      "state": "NY",
+      "zipCode": "10001"
+    },
+    "phoneNumber": "555-987-6543",
+    "registeredAt": "2021-07-22T10:15:00Z",
+    "isActive": false
+  },
+  {
+    "id": 3,
+    "username": "mjones",
+    "email": "mjones@example.com",
+    "fullName": "Michael Jones",
+    "age": 40,
+    "address": {
+      "street": "789 Pine Rd",
+      "city": "Gotham",
+      "state": "NJ",
+      "zipCode": "07001"
+    },
+    "phoneNumber": "555-654-3210",
+    "registeredAt": "2023-03-05T14:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": 4,
+    "username": "bwhite",
+    "email": "bwhite@example.com",
+    "fullName": "Betty White",
+    "age": 67,
+    "address": {
+      "street": "101 Birch Blvd",
+      "city": "Star City",
+      "state": "CA",
+      "zipCode": "90001"
+    },
+    "phoneNumber": "555-321-0987",
+    "registeredAt": "2020-11-10T09:00:00Z",
+    "isActive": true
+  },
+  {
+    "id": 5,
+    "username": "ckent",
+    "email": "ckent@example.com",
+    "fullName": "Clark Kent",
+    "age": 30,
+    "address": {
+      "street": "202 Elm St",
+      "city": "Smallville",
+      "state": "KS",
+      "zipCode": "66002"
+    },
+    "phoneNumber": "555-789-1234",
+    "registeredAt": "2019-06-25T11:45:00Z",
+    "isActive": false
+  }
+]
